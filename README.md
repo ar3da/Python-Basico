@@ -11,6 +11,7 @@ Aqui estão os notebooks desenvolvidos no **Google Colab** durante minha transi�
 - **Dia 3:** Estudos de dicionários e primeiros passos com Pandas para análise de dados
 - **Dia 4:** Estatísticas básicas, filtros e ordenação de dados com Pandas
 - **Dia 5:** Criação de gráficos (barras, linhas e pizza) com Matplotlib e Pandas
+- **Dia 6:** Revisão de conteúdos anteriores e manipulação de valores nulos com Pandas
 
 ---
 
