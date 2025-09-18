@@ -14,6 +14,7 @@ Aqui estão os notebooks desenvolvidos no **Google Colab** durante minha transi�
 - **Dia 6:** Revisão de conteúdos anteriores e manipulação de valores nulos com Pandas
 - **Dia 7:** Agrupamentos no Pandas com `groupby` e `agg`
 - **Dia 8:** Junção de tabelas no Pandas com `merge` e `concat`
+- **Dia 9:** Tratamento de dados no Pandas (strings, datas e duplicados)
 
 ---
 
