@@ -15,6 +15,7 @@ Aqui estão os notebooks desenvolvidos no **Google Colab** durante minha transi�
 - **Dia 7:** Agrupamentos no Pandas com `groupby` e `agg`
 - **Dia 8:** Junção de tabelas no Pandas com `merge` e `concat`
 - **Dia 9:** Tratamento de dados no Pandas (strings, datas e duplicados)
+- **Dia 10:** Visualização avançada de dados com Matplotlib e Seaborn
 
 ---
 
